@@ -36,6 +36,13 @@ A high-level overview of the specific logic and algorithms practiced during this
 ---
 
 ## 📅 Daily Progress Tracker
+🚀 Elite Phase SLOT 1 Training
+
+Welcome to Elite Phase SLOT 1  Training! This repository contains the learning materials, practice programs, and exercises completed during the first phase of the Elite training program. The goal of this phase is to build a strong foundation in programming and problem-solving using Java.
+
+📚 About the Training
+
+The Elite Phase SLOT 1  Training focuses on understanding the fundamentals of programming and developing logical thinking skills. Students practice various coding exercises and Java programs to strengthen their knowledge of basic programming concepts.
 
 ### Slot 1 (Phase 1)
 *Click the links below to view the original PDF problem sets and solutions.*
@@ -56,6 +63,13 @@ A high-level overview of the specific logic and algorithms practiced during this
 | **Feb 5, 2026** | Subarrays & Sliding Window | LeetCode | ~10 | [View PDF](./5%20FEB%2026.pdf) |
 | **Feb 6, 2026** | Array Rearrangement & Sorting | HackerRank | ~10 | [View PDF](./6%20FEB%2026.pdf) |
 
+🚀 SOLT 2 – Elite Phase One Training
+
+Welcome to SOLT 2 Elite Phase One Training. This repository contains the learning materials, coding exercises, and Java practice programs completed during the first phase of the SOLT 2 Elite training program. The purpose of this phase is to develop strong programming fundamentals and improve logical thinking skills.
+
+📚 About the Training
+
+The Elite Phase One Training focuses on building a strong foundation in Java programming. During this phase, students practice basic programming concepts and solve different coding problems to improve their understanding of programming logic.
 ### Slot 2 (Phase 2)
 *Click the links below to view the formatted Markdown code files.*
 
